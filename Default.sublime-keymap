@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+j"], "command": "julia_console"},
+	{ "keys": ["ctrl+shift+c"], "command": "console2"}
+]
