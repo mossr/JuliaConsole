@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+shift+j"], "command": "julia_console"},
-	{ "keys": ["ctrl+shift+c"], "command": "console2"}
+	{ "keys": ["ctrl+shift+c"], "command": "console2"},
+	{ "keys": ["ctrl+shift+e"], "command": "julia_eval_string"}
 ]
