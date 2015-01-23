@@ -1,0 +1,13 @@
+{
+	// use the sublime console (ctrl `) to output the Julia command
+	"output_to_sublime_console": true
+
+	// full path to the console executable
+	,"console_location": "C:\\Program Files\\Console2\\Console.exe"
+
+	// full path to the Julia executable
+	,"julia_location": "C:\\julia\\julia_exe\\julia-0.4.0\\bin\\julia.bat"
+
+	// name of the Julia tab in your Console2 configuration
+	,"console2_julia_tab_name": "julia"
+}
